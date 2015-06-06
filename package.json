@@ -1,0 +1,28 @@
+{
+  "name": "node-directory-tools",
+  "version": "0.1.0",
+  "description": "Node command line tools for directories and files",
+  "author": "Jesse Black <iamjesseblack@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jesse Black",
+      "email": "iamjesseblack@gmail.com>"
+    }
+  ],
+  "main": "src/node-directory-tools.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JBlackCat/node-directory-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JBlackCat/node-directory-tools/issues"
+  },
+  "dependencies": {
+    "async": "^1.2.0",
+    "minimist": "^1.1.1"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "private": true,
+  "license": "MIT"
+}
